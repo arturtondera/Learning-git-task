@@ -3,6 +3,7 @@ lista_zakupow = {
     'piekarnia': ['chleb', 'bułki', 'pączek'],
     'warzywniak': ['marchew', 'seler', 'rukola'],
     'metalowy': ['śrubki', 'młotek']
+    'kiosk': ['gazeta', 'papierosy']
 }
 count = 0
 for sklep, towar in lista_zakupow.items():
