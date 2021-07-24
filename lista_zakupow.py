@@ -11,3 +11,4 @@ for sklep, towar in lista_zakupow.items():
     if isinstance(towar, list):
         count += len(towar)
 print('W sumie kupuję', count, 'produktów')
+print("Łubu dubu, łubu dubu, niech nam żyje prezes naszego klubu")
